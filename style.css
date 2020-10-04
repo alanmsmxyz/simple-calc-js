@@ -137,3 +137,9 @@ button {
         margin-right: auto;
     }
 }
+
+/* Footer */
+.footer {
+    padding: 2rem;
+    text-align: center;
+}
